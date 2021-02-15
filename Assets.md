@@ -1,10 +1,3 @@
-Friendly Love
-
-
-
-
-
-
 Romantic Love
 - Couple chatter
   [Talking and laughter](https://freesound.org/people/PlusMinusZero/sounds/106819/) by [PlusMinusZero](https://freesound.org/people/PlusMinusZero/) used under CC-by-NC 3.0.
@@ -16,23 +9,23 @@ Romantic Love
     Self recorded.
 
 Motherly Love
--Children Playing
+- Children Playing
   [children playing](https://freesound.org/people/goldkelchen/sounds/371377/) by [goldkelchen](https://freesound.org/people/goldkelchen/), used under CC0.
 - Bird Chirp
   [Bird Whistling, Single, Robin, A](https://freesound.org/people/InspectorJ/sounds/416529/) by [InspectorJ](https://freesound.org/people/InspectorJ/), used under CC BY 3.0.
 - Bus pulls up
   [high school school bus old rattly throaty pull up pass slow and stop idle and air release twice](https://freesound.org/people/kyles/sounds/450807/) by [kyles](https://freesound.org/people/kyles/), used under CC0.
-  -"I love you! Be safe at school!"
+  - "I love you! Be safe at school!"
     Self recorded.
 
 Child to Mother (voicemail)
--Voicemail dialogue
+- Voicemail dialogue
   Self recorded.
 - Car White Noise
   [Inside_Car_Raining_Outside](https://freesound.org/people/pulswelle/sounds/219245/) by [pulswelle](https://freesound.org/people/pulswelle/), used under CC0.
--Piano Music
+- Piano Music
   [Snowfall final](https://freesound.org/people/ShadyDave/sounds/262259/) by [ShadyDave](https://freesound.org/people/ShadyDave/), used under CC BY-NC 3.0.
--Cheerful Music
+- Cheerful Music
   [Sky Loop](https://freesound.org/people/FoolBoyMedia/sounds/264295/) by [FoolBoyMedia](https://freesound.org/people/FoolBoyMedia/), used under CC BY-NC 3.0.
 
 Eulogy

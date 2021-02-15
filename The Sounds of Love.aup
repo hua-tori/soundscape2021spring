@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="The Sounds of Love_data" version="1.3.0" audacityversion="2.4.2" sel0="115.6060066421" sel1="115.6060066421" vpos="112" h="0.0000000000" zoom="8.7279201947" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="The Sounds of Love_data" version="1.3.0" audacityversion="2.4.2" sel0="25.9330385500" sel1="32.3260544230" vpos="0" h="0.0000000000" zoom="8.7279201947" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
 		<tag name="Software" value="Lavf52.93.0"/>
 	</tags>
@@ -170,27 +170,27 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Romantic ILY" isSelected="0" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="0.251189" pan="0.0" colorindex="0">
+	<wavetrack name="Romantic ILY" isSelected="1" height="150" minimized="1" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="0.398107" pan="0.0" colorindex="0">
 		<waveclip offset="25.93303855" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="281932">
 				<waveblock start="0">
-					<simpleblockfile filename="e080155e.au" len="262144" min="-0.06981" max="0.084674" rms="0.008518"/>
+					<simpleblockfile filename="e0800b06.au" len="262144" min="-0.062084" max="0.073417" rms="0.007861"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="e0801f6a.au" len="19788" min="-0.000831" max="0.00093" rms="0.000269"/>
+					<simpleblockfile filename="e0800a10.au" len="19788" min="-0.000741" max="0.000833" rms="0.000248"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<wavetrack name="Romantic ILY" isSelected="0" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="0.251189" pan="0.0" colorindex="0">
+	<wavetrack name="Romantic ILY" isSelected="1" height="150" minimized="1" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="0.398107" pan="0.0" colorindex="0">
 		<waveclip offset="25.93303855" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="281932">
 				<waveblock start="0">
-					<simpleblockfile filename="e0801bad.au" len="262144" min="-0.082549" max="0.100232" rms="0.009073"/>
+					<simpleblockfile filename="e0800581.au" len="262144" min="-0.07235" max="0.089078" rms="0.008406"/>
 				</waveblock>
 				<waveblock start="262144">
-					<simpleblockfile filename="e0801282.au" len="19788" min="-0.000944" max="0.000893" rms="0.000296"/>
+					<simpleblockfile filename="e0800bde.au" len="19788" min="-0.000882" max="0.000802" rms="0.000277"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
